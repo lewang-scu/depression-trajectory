@@ -1,6 +1,6 @@
 # Mixed Effects Logistic Regression for Biomarker and Depression Status
 # ----------------------------------------------------------------------
-# Author: Wang Le
+# Authors: Le Wang, Yifei Lin, Jin Huang
 # Description: This script performs mixed effects logistic regression to evaluate 
 #              the association between blood cell indicators and depression status,
 #              accounting for repeated measures per subject.
