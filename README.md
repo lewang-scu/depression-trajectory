@@ -18,11 +18,13 @@ Columns typically include:
 •	Abbreviations (e.g., PLR = Platelet-to-Lymphocyte Ratio)
 •	Units (if applicable)
 
-🧪 Analysis Overview
-The scripts in this repository perform the following types of analyses:
-•	Poisson regression: Used to model incidence rate and calculate dispersion statistics.
-•	Mixed-effects models: Account for within-person correlation in repeated measures.
-•	Logistic regression: Association of biomarkers with binary depression status.
-•	Ordinal Logistic regression: Associations with depression severity.
-•	Trajectory modeling: Latent class modeling to identify longitudinal biomarker patterns over time.
 
+### 🧪 Analysis Overview
+
+The scripts in this repository perform the following types of analyses:
+
+- **Poisson regression**: Used to model incidence rate and calculate dispersion statistics.
+- **Mixed-effects models**: Account for within-person correlation in repeated measures.
+- **Logistic regression**: Association of biomarkers with binary depression status.
+- **Ordinal logistic regression**: Associations with depression severity.
+- **Trajectory modeling**: Latent class modeling to identify longitudinal biomarker patterns over time.
