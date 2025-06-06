@@ -1,6 +1,6 @@
 # Logistic and Ordinal Regression Analysis Script
 # -----------------------------------------------
-# Author: [Wang Le]
+# Authors: Le Wang, Yifei Lin, Jin Huang
 # Description: This script performs time-dependent logistic and ordinal logistic regression 
 #              on blood cell indicators in patients with depressive disorder.
 
