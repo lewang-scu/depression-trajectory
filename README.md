@@ -80,3 +80,11 @@ The scripts in this repository cover the following statistical models:
 - Dependencies: `dplyr`, `data.table`, `openxlsx`, `glm2`, `lme4`, `MASS`, `lcmm`, `sandwich`, `lmtest`, etc.
 
 For transparency, please refer to each `.R` file or cite this repository directly in your work.
+
+
+### Contributors
+
+- **Wang Le** – conceptualization, data preprocessing, statistical modeling  
+- **Lin Yifei** – code optimization, reproducibility review  
+- **Huang Jin** – project supervision, methodological guidance
+
