@@ -81,6 +81,7 @@ The scripts in this repository cover the following statistical models:
 
 For transparency, please refer to each `.R` file or cite this repository directly in your work.
 
+---
 
 ### Contributors
 
