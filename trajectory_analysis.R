@@ -1,6 +1,6 @@
 # Longitudinal Trajectory Analysis Using Latent Class Mixed Models
 # -----------------------------------------------------------------
-# Author: Wang Le
+# Authors: Le Wang, Yifei Lin, Jin Huang
 # Description: This script performs trajectory analysis for a single biomarker 
 #              (e.g., red blood cell count) using LCMM (latent class mixed models).
 
