@@ -1,6 +1,6 @@
 # Poisson Dispersion Analysis (Overall + Gender Stratified)
 # ----------------------------------------------------------
-# Author: Wang Le
+# Authors: Le Wang, Yifei Lin, Jin Huang
 # Description: Calculates Pearson-based dispersion statistics to assess overdispersion 
 #              in Poisson models for blood cell indicators associated with depression.
 
