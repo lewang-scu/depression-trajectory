@@ -1,6 +1,6 @@
-Project Description
-This repository contains statistical analysis scripts used in the study of associations between blood cell markers and depression status based on repeated physical examination records.
-Data: This dataset includes repeated measurements from participants undergoing routine health check-ups. Each row represents one visit by a participant.
+-Project Description
+-This repository contains statistical analysis scripts used in the study of associations between blood cell markers and depression status based on repeated ---physical examination records.
+-Data: This dataset includes repeated measurements from participants undergoing routine health check-ups. Each row represents one visit by a participant.
 
 Key variables include:
 Variable	      Description
