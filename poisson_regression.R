@@ -1,6 +1,6 @@
 # Poisson Regression with Robust Standard Errors
 # ---------------------------------------------
-# Author: Wang Le (modified for robust SE)
+# Authors: Le Wang, Yifei Lin, Jin Huang (modified for robust SE)
 # Description: This script performs Poisson regression using robust SE
 #              on time-dependent data to analyze the association between
 #              blood cell indicators and depressive outcomes.
